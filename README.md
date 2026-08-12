@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2E8,100:9B7FCC&height=180&section=header&text=Hi,%20I'm%20Madhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontFamily=Poppins" />
 
-<img src="https://img.shields.io/badge/ECE-2027%20Batch-B497D6?style=for-the-badge" />
 
 </div>
 
