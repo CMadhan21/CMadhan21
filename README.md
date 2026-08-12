@@ -1,79 +1,45 @@
-<h1 align="center">Hi there, I'm Madhan 👋</h1>
-<h3 align="center">ECE Student | Aspiring VLSI Engineer (RTL Design • Verification • DFT)</h3>
+# Madhan C
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Digital+Design+%7C+Verilog+%7C+RTL;Chasing+a+VLSI+career%2C+one+testbench+at+a+time;Building+FPGAs%2C+NPUs+%26+Embedded+Systems" alt="Typing SVG" />
-</p>
+Electronics and Communication Engineering undergraduate (Class of 2027) at Government College of Engineering, Erode. I work mostly in RTL design, SystemVerilog, and FPGA-based system modeling, and I'm aiming for a career in the VLSI domain — RTL design, verification, or DFT.
 
----
+📫 madhan.c ece27@gcee.ac.in
+🔗 [linkedin.com/in/madhanc27](https://linkedin.com/in/madhanc27)
 
-### 👨‍💻 About Me
+## What I work with
 
-- 🎓 Pre-final year **B.E. Electronics and Communication Engineering** student at Government College of Engineering, Erode (Anna University)
-- 🔬 Focused on **VLSI Engineering** — targeting roles in **RTL Design, Design Verification, and DFT**
-- 📡 Coursework this semester: **DFT, C Programming, CMOS Digital VLSI Design**
-- 📚 Preparing for **GATE 2027 (ECE)**
-- 🧠 Running a self-paced **15-day Verilog practice program** — 5 programs/day, simulated with Icarus Verilog & GTKWave, pushed daily to GitHub
-- 🏆 Active in **hackathons and design contests** — currently part of **DVCon India 2026 Design Contest**, working on **TADS (Task-Aware Detection with Semantic Scoring)** as Pipeline Architect
+Verilog, SystemVerilog, C — mainly for RTL coding, combinational/sequential circuit design, and FSMs. On the tooling side I use Xilinx Vivado, Icarus Verilog, and GTKWave, and I'm comfortable on both Windows and Linux.
 
----
+## Projects
 
-### 🚀 What I'm Working On
+**FPGA Processor Bottleneck Analysis with Aging-Aware Performance Degradation** (Apr 2026)
+Won the Innovation Award at Mirabilis Design's VisualSim Global Electronics Hackathon 2026, out of 850+ global teams. Built a system-level FPGA processor model in VisualSim Architect to study BTI/HCI aging effects across the pipeline, cache, and memory subsystems. Traced the main bottleneck to memory bus saturation and designed adaptive frequency scaling that cut performance degradation from 67% down to 17%.
 
-| Project | Description |
-|---|---|
-| 🧩 **Verilog Practice Series** | Structured RTL practice from combinational logic → FSMs → memory → arithmetic units → protocol-level designs |
-| 🔌 **PROTOCOLS** | Verilog stubs for **APB, I2C, SPI, UART** |
-| 🧮 **NPU Systolic Array (Block 1)** | 64×64 PE systolic array core for YOLOv8s acceleration — weight-stationary dataflow, pipelined PEs, double-buffering |
-| 🚦 **Emergency Vehicle Preemption Controller** | Edge-AI acoustic signal controller on Artix-7 FPGA (Verilog RTL, 9 modules) |
-| ⚡ **Pipelined RISC-V ALU** | 7-stage pipeline with CLA & array multiplier, deployed on Nexys A7-100T (Vivado 2025.1) |
-| 🔁 **CP-PLL with Ring VCO** | FOSSEE eSim research migration project — PFD & divider in Verilog, KiCad + ngspice-ghdl simulation |
+**Parameterized 16-Operation ALU in SystemVerilog** (May 2026)
+An N-bit parameterized ALU supporting 16 arithmetic, logic, shift, rotate, and comparison operations, built with enum opcodes and packed struct flags. Handles carry, overflow, and zero/negative flags, with `$clog2`-based shift widths and signed arithmetic right shift. Verified all 16 operations with a self-checking testbench across 11 directed test cases, including signed overflow. Built and tested on EDA Playground with Icarus Verilog and GTKWave.
 
----
+## Experience
 
-### 🛠️ Tech & Tools
+**Embedded C & Microcontroller Programming Intern** — InGage Technologies Pvt. Ltd. (Jun 2026, Remote)
+Built a Smart Door Lock System on Arduino Uno with a keypad, servo motor, LCD, buzzer, and LEDs. First real hands-on stretch with Embedded C, microcontroller interfacing, and hardware debugging.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Verilog-1e415e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SystemVerilog-2b4d6f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA-Xilinx%20Vivado-4c1130?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Icarus%20Verilog-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GTKWave-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Space Tech Intern** — India Space Lab, India Space Week (Feb–Mar 2026, Remote)
+Simulated model rocket trajectories in OpenRocket and wrote up a technical report on aerodynamic stability.
+
+## Certifications
+
+- System Design Through Verilog — NPTEL, IIT Guwahati (Elite + Gold, 91%)
+- CMOS Digital VLSI Design — NPTEL, IIT Roorkee (Elite)
+- Problem Solving through Programming in C — NPTEL, IIT Kharagpur
+- Digital VLSI Testing — NPTEL, IIT Kharagpur
+- VLSI for Beginners — NIELIT Calicut
+
+## Awards & competitions
+
+- 1st Place, Innovation Award — VisualSim Electronics Hackathon 2026, Mirabilis Design (Apr 2026)
+- 1st Prize, Paper Presentation — Spring Fest, KSR College of Engineering (2025)
+- 3rd Prize, Paper War — Galaxy Phase-II, GCE Erode (2024)
+- 3rd Prize, Ideathon — Spring Fest, KSR College of Engineering (2024)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CMadhan21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMadhan21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CMadhan21&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/CMadhan21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>"Every gate, flip-flop, and FSM I build today is a step toward the chip of tomorrow."</i></p>
+Most of what's in my repos right now is Verilog practice work — going through combinational logic, FSMs, memory, arithmetic units, and protocol-level designs (APB, I2C, SPI, UART), simulated with Icarus Verilog and GTKWave.
