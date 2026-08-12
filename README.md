@@ -18,7 +18,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B7FCC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanc27)
 [![Gmail](https://img.shields.io/badge/Gmail-9B7FCC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhantwinkle@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-9B7FCC?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/YOUR-RESUME-LINK-HERE)
+[![Resume](https://img.shields.io/badge/Resume-9B7FCC?style=for-the-badge&logo=googledrive&logoColor=white)]([https://drive.google.com/YOUR-RESUME-LINK-HERE](https://drive.google.com/file/d/13s-vufDOCPAlBq5KpOlvWhl5lomfhxFh/view?usp=sharing))
 [![GitHub](https://img.shields.io/badge/GitHub-9B7FCC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CMadhan21)
 
 </div>
