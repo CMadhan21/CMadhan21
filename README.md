@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=180&section=header&text=Hi,%20I'm%20Madhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Caveat&weight=700&size=26&pause=1500&color=1A1A1A&center=true&vCenter=true&width=520&lines=VLSI+Design+%26+Verification+Engineer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=600&size=22&pause=1500&color=1A1A1A&center=true&vCenter=true&width=520&lines=VLSI+Design+%26+Verification+Engineer" />
 
 <img src="https://komarev.com/ghpvc/?username=CMadhan21&color=1a1a1a&style=flat-square&label=PROFILE+VIEWS" />
-
-<img src="assets/divider.svg" width="100%" />
 
 </div>
 
@@ -27,7 +25,7 @@
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:434343&height=2&width=1200" />
 
 <div align="center">
 
@@ -44,4 +42,4 @@
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer" />
