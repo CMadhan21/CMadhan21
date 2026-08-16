@@ -1,23 +1,27 @@
-<h1 align="center">Hi 👋, I'm Madhan C</h1>
-<h3 align="center">VLSI Design and Verification Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cmadhan21&label=Profile%20views&color=0e75b6&style=flat" alt="cmadhan21" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2E8,100:9B7FCC&height=180&section=header&text=Hi,%20I'm%20Madhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontFamily=Poppins" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cmadhan21" alt="cmadhan21" /></a> </p>
 
-- 🔭 I’m currently working on [Verilog](https://github.com/CMadhan21/VERILOG)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/CMadhan21](https://github.com/CMadhan21)
+> *Final-year ECE undergraduate focused on VLSI, RTL design, and digital verification.*
+>
+> *Currently building RTL designs in Verilog, including combinational logic, FSMs, memories, arithmetic units, and communication protocols such as APB, I²C, SPI, and UART.*
 
-- 📫 How to reach me **madhantwinkle@gmail.com**
+- 🔧 `Verilog` `SystemVerilog` `C`
+- 🛠️ `Vivado` `Icarus Verilog` `GTKWave` `EDA Playground`
+- ⚡ `FPGA` `RTL Design` `Digital Verification`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhanc27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhanc27" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmadhan21&show_icons=true&locale=en&layout=compact" alt="cmadhan21" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B7FCC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhanc27)
+[![Gmail](https://img.shields.io/badge/Gmail-9B7FCC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhantwinkle@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-9B7FCC?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13s-vufDOCPAlBq5KpOlvWhl5lomfhxFh/view?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-9B7FCC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CMadhan21)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmadhan21&show_icons=true&locale=en" alt="cmadhan21" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmadhan21&" alt="cmadhan21" /></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B7FCC,100:C8A2E8&height=100&section=footer" />
