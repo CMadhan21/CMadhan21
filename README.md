@@ -31,9 +31,27 @@
 
 <img src="assets/divider.svg" width="100%" />
 
+### 📊 GitHub Stats
+
 <br>
 
-<h2>🏆 Achievements</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=CMadhan21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMadhan21&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff&langs_count=8" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=CMadhan21&hide_border=true&background=ffffff&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a&currStreakNum=1a1a1a&sideLabels=333333&sideNums=333333&dates=999999" />
+
+</div>
+
+<div align="center">
+
+<img src="assets/divider.svg" width="100%" />
+
+<br>
+
+### 🏆 Achievements
 
 <p>
   <i>Things I've built, learned, and accomplished along the way.</i>
@@ -81,7 +99,7 @@
 
 **2026 · Mirabilis Design**
 
-`Innovation award Winner` · **859 participants**
+`Innovation Award Winner` · **850+ participants**
 
 </td>
 </tr>
