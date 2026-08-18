@@ -81,7 +81,7 @@
 
 **2026 · Mirabilis Design**
 
-`Top 15 Finalist` · **859 participants**
+`Innovation award Winner` · **859 participants**
 
 </td>
 </tr>
