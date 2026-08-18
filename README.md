@@ -29,19 +29,3 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=CMadhan21&show_icons=true&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff&ring_color=1a1a1a" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMadhan21&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff&langs_count=8" height="165" />
-
-<img src="https://streak-stats.demolab.com/?user=CMadhan21&hide_border=true&background=ffffff&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a&currStreakNum=1a1a1a&sideLabels=333333&sideNums=333333&dates=999999" />
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=CMadhan21&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
